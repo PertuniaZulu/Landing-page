@@ -1,0 +1,100 @@
+body {
+    font-family: roboto, sans-serif;
+}
+.first, footer {
+    background-color: #1F2937;
+    width: 100%;
+}  
+
+h3 {
+    font-size: 48px;  
+    font-style: bold;
+    color: #F9FAF8;
+    margin: 1px 0;
+}
+#about > p {
+    height: 150px;
+    margin: 0 300px -90px 0;
+    padding: 1px 0 50px 0;
+}
+#about {
+    width: 100%;
+    font-size: 18px;  
+    color: #E5E7EB;
+    /*border: 6px solid pink;*/
+    margin: 100px 300px 1px 6px;
+    display: inline-block;
+}
+#about > form {
+    width: 30%;
+    margin: 50px 1px 2px 0;
+    margin: 55px 300px 1px 6px;
+}
+#image > img {
+    width: 45%;
+    display: inline-block;
+    height: 230px;
+    margin: -290px 340px 15px;
+}
+nav {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+h2 {
+    text-align: center;
+}
+section.pictures figure{
+    width: 100%;
+    
+}
+figure.image2 {  
+    margin: -126px 0 40px 200px;
+}
+figure.image3 {  
+    margin: -166px 0 40px 400px;
+}
+figure.image2 {  
+    margin: -126px 0 40px 200px;
+    
+}
+.quote {
+    width: 100%;
+    height: 150px;
+    background-color: #E5E7EB;
+    margin: 10px 0 4px;
+}
+.quote > p {
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+}
+.last {
+    height: 200px;
+    padding: 50px 0 0px 0;;
+}
+form > fieldset {
+    height: 110px;
+    background-color: #3882F6;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-radius: 10px;  
+}
+.btn {
+    background-color: #3882F6;
+    border-color: #fff; 
+    border-radius: -10rem;
+    margin: -50px 10px 0 500px;  
+}
+h4, fieldset > p {
+    text-align: center;
+}
+footer {
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+}
